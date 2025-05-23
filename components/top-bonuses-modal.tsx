@@ -10,6 +10,9 @@ export function TopBonusesModal() {
   const [topBookmakers, setTopBookmakers] = useState<Bookmaker[]>([])
 
   useEffect(() => {
+    // Always set the top bookmakers data
+    setTopBookmakers(getTopBookmakers(3))
+
     // Check if the modal has been shown before
     const hasShownModal = localStorage.getItem("hasShownBonusModal")
 
@@ -23,8 +26,6 @@ export function TopBonusesModal() {
       // Cleanup timer if component unmounts
       return () => clearTimeout(timer)
     }
-
-    setTopBookmakers(getTopBookmakers(3))
   }, [])
 
   if (!isOpen) return null
