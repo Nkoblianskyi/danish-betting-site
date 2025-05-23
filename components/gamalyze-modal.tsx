@@ -27,12 +27,12 @@ export function GamalyzeModal({ isOpen, onClose }: GamalyzeModalProps) {
 
           <div className="space-y-4">
             <p className="text-gray-700">
-              bedstedanskebettingsider.com is an independent professional comparison site supported by referral fees
+              DK BEDSTE BETTING SIDER is an independent professional comparison site supported by referral fees
               from the sites which are ranked on the site. The Casino site and information that we present are from
-              companies from which bedstedanskebettingsider.com receives compensation. This compensation impacts the
+              companies from which DK BEDSTE BETTING SIDER receives compensation. This compensation impacts the
               ranking of the sites. Other factors, including our own opinions, your location, and the likelihood of
               signing up, may also impact how the ranking of the sites appears to a particular user.
-              bedstedanskebettingsider.com cannot and does not present information about every Casino site or Casino
+              DK BEDSTE BETTING SIDER cannot and does not present information about every Casino site or Casino
               site offer available.
             </p>
 

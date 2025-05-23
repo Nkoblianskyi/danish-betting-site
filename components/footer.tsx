@@ -71,7 +71,7 @@ export function Footer() {
           <div className="md:col-span-2">
             <h3 className="text-lg font-bold mb-4">Ansvarsfraskrivelse</h3>
             <p className="text-sm mb-4">
-              BedsteDanskeBettingsider.com modtager provision når du klikker på links og tilmelder
+              DK BEDSTE BETTING SIDER modtager provision når du klikker på links og tilmelder
               dig. Dette påvirker ikke vores vurderinger, som er baseret på grundig research og test.
             </p>
             <div className="text-sm">
@@ -87,7 +87,7 @@ export function Footer() {
 
         <div className="mt-8 pt-8 border-t border-gray-700 flex flex-col md:flex-row gap-20 items-center">
           <div className="text-sm mb-4 md:mb-0">
-            &copy; {new Date().getFullYear()} BedsteDanskeBettingsider.com. Alle rettigheder forbeholdes.
+            &copy; {new Date().getFullYear()} DK BEDSTE BETTING SIDER. Alle rettigheder forbeholdes.
           </div>
 
           <div className="flex space-x-4 items-center">

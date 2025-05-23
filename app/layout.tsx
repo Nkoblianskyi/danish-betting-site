@@ -6,7 +6,7 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Bedste Betting Sider i Danmark | BedsteDanskeBettingsider.com",
+  title: "DK BEDSTE BETTING SIDER",
   description:
     "Find de bedste betting sider i Danmark med eksklusive bonusser, vurderinger og anmeldelser. Alle bookmakere har dansk licens.",
 }
@@ -15,7 +15,7 @@ export default function RootLayout({
   children,
 }: {
   children: React.ReactNode
-}) {
+}) {  
   return (
     <html lang="da">
       <body

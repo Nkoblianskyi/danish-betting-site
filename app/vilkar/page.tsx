@@ -11,13 +11,13 @@ export default function TermsAndConditions() {
 
           <div className="prose max-w-none">
             <p>
-              Velkommen til BedsteDanskeBettingsider.com. Ved at bruge vores hjemmeside accepterer du disse vilkår og
+              Velkommen til DK BEDSTE BETTING SIDER. Ved at bruge vores hjemmeside accepterer du disse vilkår og
               betingelser. Læs dem omhyggeligt, da de påvirker dine juridiske rettigheder og forpligtelser.
             </p>
 
             <h2 className="text-2xl font-bold mt-6 mb-4">1. Accepter af Vilkår</h2>
             <p>
-              Ved at tilgå eller bruge BedsteDanskeBettingsider.com accepterer du at være bundet af disse vilkår og
+              Ved at tilgå eller bruge DK BEDSTE BETTING SIDER accepterer du at være bundet af disse vilkår og
               betingelser, vores fortrolighedspolitik og alle gældende love og regler. Hvis du ikke accepterer disse
               vilkår, må du ikke bruge vores hjemmeside.
             </p>
@@ -47,7 +47,7 @@ export default function TermsAndConditions() {
 
             <h2 className="text-2xl font-bold mt-6 mb-4">5. Ansvarsfraskrivelse</h2>
             <p>
-              BedsteDanskeBettingsider.com er en informationshjemmeside, der giver anmeldelser og sammenligninger af
+              DK BEDSTE BETTING SIDER er en informationshjemmeside, der giver anmeldelser og sammenligninger af
               forskellige bookmakere og gambling-tjenester. Vi er ikke en gambling-operatør og tilbyder ikke
               gambling-tjenester.
             </p>
@@ -59,7 +59,7 @@ export default function TermsAndConditions() {
 
             <h2 className="text-2xl font-bold mt-6 mb-4">6. Affiliate Links og Reklame</h2>
             <p>
-              BedsteDanskeBettingsider.com indeholder affiliate links. Dette betyder, at vi kan modtage provision, hvis
+              DK BEDSTE BETTING SIDER indeholder affiliate links. Dette betyder, at vi kan modtage provision, hvis
               du klikker på et link på vores hjemmeside og derefter tilmelder dig en tjeneste eller foretager et køb.
               Dette påvirker ikke vores anmeldelser eller vurderinger, som er baseret på grundig research og test.
             </p>
@@ -79,14 +79,14 @@ export default function TermsAndConditions() {
 
             <h2 className="text-2xl font-bold mt-6 mb-4">8. Intellektuel Ejendomsret</h2>
             <p>
-              Alt indhold på BedsteDanskeBettingsider.com, herunder tekst, grafik, logoer, ikoner, billeder, lydklip,
+              Alt indhold på BEDSTE BETTING SIDER, herunder tekst, grafik, logoer, ikoner, billeder, lydklip,
               digitale downloads og software, er vores ejendom eller vores indholdsleverandørers ejendom og er beskyttet
               af danske og internationale love om ophavsret.
             </p>
 
             <h2 className="text-2xl font-bold mt-6 mb-4">9. Begrænsning af Ansvar</h2>
             <p>
-              BedsteDanskeBettingsider.com og dets ejere, medarbejdere og partnere er ikke ansvarlige for tab eller
+              BEDSTE BETTING SIDER og dets ejere, medarbejdere og partnere er ikke ansvarlige for tab eller
               skader af nogen art, der opstår som følge af din brug af vores hjemmeside eller information, produkter
               eller tjenester, der er tilgængelige gennem vores hjemmeside.
             </p>

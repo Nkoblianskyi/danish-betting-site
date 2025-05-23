@@ -11,7 +11,7 @@ export default function CookiePolicy() {
 
           <div className="prose max-w-none">
             <p>
-              BedsteDanskeBettingsider.com bruger cookies for at give dig den bedste oplevelse på vores hjemmeside. Ved
+              DK BEDSTE BETTING SIDER bruger cookies for at give dig den bedste oplevelse på vores hjemmeside. Ved
               at fortsætte med at bruge vores hjemmeside accepterer du vores brug af cookies.
             </p>
 

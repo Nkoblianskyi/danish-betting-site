@@ -11,7 +11,7 @@ export default function PrivacyPolicy() {
 
           <div className="prose max-w-none">
             <p>
-              BedsteDanskeBettingsider.com respekterer dit privatliv og er forpligtet til at beskytte dine personlige
+              BEDSTE BETTING SIDER respekterer dit privatliv og er forpligtet til at beskytte dine personlige
               oplysninger. Denne fortrolighedserklæring forklarer, hvordan vi indsamler, bruger og beskytter dine
               oplysninger.
             </p>

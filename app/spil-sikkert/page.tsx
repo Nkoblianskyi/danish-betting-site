@@ -11,7 +11,7 @@ export default function SpilSikkert() {
 
         <div className="prose max-w-none">
           <p>
-            På BedsteDanskeBettingsider.com tager vi ansvarligt spil meget alvorligt. Vi er forpligtet til at fremme
+            På DK BEDSTE BETTING SIDER tager vi ansvarligt spil meget alvorligt. Vi er forpligtet til at fremme
             sikre og ansvarlige spillevaner og til at hjælpe med at forebygge og bekæmpe problematisk spilleadfærd.
           </p>
 

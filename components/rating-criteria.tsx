@@ -5,7 +5,7 @@ export function RatingCriteria() {
         <h2 className="text-2xl font-bold mb-4 text-center">Sådan Vurderer Vi Bookmakere</h2>
 
         <p className="text-gray-700 mb-6">
-          På BedsteDanskeBettingsider.com gennemgår vores ekspertteam grundigt alle bookmakere for at sikre, at vi kun
+          På DK BEDSTE BETTING SIDER gennemgår vores ekspertteam grundigt alle bookmakere for at sikre, at vi kun
           anbefaler de bedste til vores brugere. Vores vurderingsproces er omfattende og tager hensyn til flere vigtige
           faktorer.
         </p>
