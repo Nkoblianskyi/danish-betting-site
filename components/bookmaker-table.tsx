@@ -90,13 +90,13 @@ export function BookmakerTable() {
                           </div>
                         )}
                         <div className="flex items-center pt-2">
-                          <div className="w-24 h-12 relative flex-shrink-0 mr-3 flex items-center justify-center overflow-hidden transition-transform duration-300 hover:scale-110">
+                          <div className="w-28 h-24 relative flex-shrink-0 mr-3 flex items-center justify-center overflow-hidden transition-transform duration-300 hover:scale-110">
                             {bookmaker.logo ? (
                               <Image
                                 src={bookmaker.logo || "/placeholder.svg"}
                                 alt={bookmaker.name}
-                                width={96}
-                                height={48}
+                                width={180}
+                                height={124}
                                 className="object-contain max-w-full max-h-full"
                               />
                             ) : (

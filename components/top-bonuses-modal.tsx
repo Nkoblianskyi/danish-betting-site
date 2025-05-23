@@ -56,27 +56,27 @@ export function TopBonusesModal() {
                     {bookmaker.label}
                   </div>
                 )}
-                <div className="flex items-center justify-between">
+                <div className="flex items-center justify-center mb-1">
                   <div className="flex items-center">
-                    <div className="w-8 h-6 sm:w-12 sm:h-8 relative flex-shrink-0 mr-1 flex items-center justify-center overflow-hidden">
+                    <div className="w-24 h-20 sm:w-28 sm:h-20 relative flex-shrink-0 mr-3 flex items-center justify-center overflow-hidden">
                       {bookmaker.logo ? (
                         <Image
                           src={bookmaker.logo || "/placeholder.svg"}
                           alt={bookmaker.name}
-                          width={32}
-                          height={24}
+                          width={124}
+                          height={124}
                           className="object-contain max-w-full max-h-full"
                         />
                       ) : (
                         <div className="text-[10px] sm:text-xs font-bold">{bookmaker.name}</div>
                       )}
                     </div>
-                    <div>
-                      <div className="font-bold text-[10px] sm:text-xs">{bookmaker.name}</div>
-                      <div className="text-[8px] sm:text-xs">{bookmaker.bonus}</div>
+                    <div className="text-center">
+                      <div className="font-bold text-xs sm:text-sm">{bookmaker.name}</div>
+                      <div className="text-[10px] sm:text-sm">{bookmaker.bonus}</div>
                     </div>
                   </div>
-                  <div className="flex flex-col items-end">
+                  <div className="flex flex-col items-end ml-auto">
                     <div className="text-sm sm:text-lg font-bold text-green-600">{bookmaker.rating.toFixed(1)}</div>
                     <StarRating rating={bookmaker.rating} size="sm" />
                   </div>
@@ -89,7 +89,7 @@ export function TopBonusesModal() {
                     href={bookmaker.url}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="bg-red-600 hover:bg-red-700 text-white font-bold py-0.5 px-1 sm:py-1 sm:px-2 rounded text-xs sm:text-sm md:text-base lg:text-lg transition-all duration-300 hover:shadow-md hover:scale-105"
+                    className="bg-red-600 hover:bg-red-700 text-white font-bold py-0.5 px-2 sm:py-1 sm:px-3 rounded text-xs sm:text-sm md:text-base lg:text-lg transition-all duration-300 hover:shadow-md hover:scale-105 whitespace-nowrap"
                   >
                     FÅ BONUS! *
                   </a>
