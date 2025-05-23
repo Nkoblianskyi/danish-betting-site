@@ -36,22 +36,28 @@ export function Header() {
                   <h1 className="text-lg md:text-2xl font-bold">
                     BEDSTE <span className="text-red-600">BETTING</span> SIDER
                   </h1>
-                  <h2 className="text-[10px] md:text-sm text-gray-600">OPDATERET TIL {currentDate}</h2>
+                  <h2 className="text-[10px] md:text-sm text-black">OPDATERET TIL {currentDate}</h2>
                 </div>
               </div>
             </div>
 
-            <div className="flex flex-wrap justify-center gap-1 md:gap-3">
-              <div className="flex items-center gap-1 bg-white bg-opacity-40 px-1 md:px-2 py-0.5 md:py-1 rounded-md text-[9px] md:text-xs">
-                <span className="text-blue-600">🇩🇰</span>
+            <div className="flex flex-wrap justify-center gap-2 md:gap-3">
+              <div className="flex items-center gap-1 bg-white bg-opacity-40 px-2 md:px-3 py-1 md:py-2 rounded-md text-[10px] md:text-sm">
+                <span className="w-6 h-4 md:w-8 md:h-5 relative flex-shrink-0 overflow-hidden">
+                  <div className="absolute inset-0 bg-red-600"></div>
+                  <div className="absolute inset-0 flex items-center justify-center">
+                    <div className="w-1.5 h-full md:w-2 bg-white absolute left-1/4 transform -translate-x-1/2"></div>
+                    <div className="h-1.5 w-full md:h-2 bg-white absolute top-1/2 transform -translate-y-1/2"></div>
+                  </div>
+                </span>
                 <span>Dansk Licens</span>
               </div>
-              <div className="flex items-center gap-1 bg-white bg-opacity-40 px-1 md:px-2 py-0.5 md:py-1 rounded-md text-[9px] md:text-xs">
-                <span className="text-yellow-600">💰</span>
+              <div className="flex items-center gap-1 bg-white bg-opacity-40 px-2 md:px-3 py-1 md:py-2 rounded-md text-[10px] md:text-sm">
+                <span className="text-yellow-600 text-lg md:text-xl">💰</span>
                 <span>Eksklusive Bonusser</span>
               </div>
-              <div className="flex items-center gap-1 bg-white bg-opacity-40 px-1 md:px-2 py-0.5 md:py-1 rounded-md text-[9px] md:text-xs">
-                <span className="text-blue-600">🔍</span>
+              <div className="flex items-center gap-1 bg-white bg-opacity-40 px-2 md:px-3 py-1 md:py-2 rounded-md text-[10px] md:text-sm">
+                <span className="text-blue-600 text-lg md:text-xl">🔍</span>
                 <span>Testet i dag</span>
               </div>
             </div>
