@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-rgb: 255, 255, 255;
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: rgb(var(--background-rgb));
+}
+
+.prose {
+  max-width: 65ch;
+  color: inherit;
+}
+
+.prose h1,
+.prose h2,
+.prose h3,
+.prose h4,
+.prose h5,
+.prose h6 {
+  color: inherit;
+  margin-top: 2em;
+  margin-bottom: 1em;
+}
+
+.prose p,
+.prose ul,
+.prose ol {
+  margin-bottom: 1.5em;
+}
+
+.prose a {
+  color: #2563eb;
+  text-decoration: underline;
+}
