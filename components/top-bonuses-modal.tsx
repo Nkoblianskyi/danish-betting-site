@@ -82,7 +82,7 @@ export function TopBonusesModal() {
                     href={bookmaker.url}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="bg-red-600 hover:bg-red-700 text-white font-bold py-1 px-2 rounded text-xs transition-all duration-300 hover:shadow-md hover:scale-105"
+                    className="bg-red-600 hover:bg-red-700 text-white font-bold py-1 px-2 rounded text-xs whitespace-nowrap flex-shrink-0 inline-block min-w-[70px] text-center transition-all duration-300 hover:shadow-md hover:scale-105"
                   >
                     FÅ BONUS! *
                   </a>

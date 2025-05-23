@@ -1,7 +1,7 @@
 export function RatingCriteria() {
   return (
     <div className="container mx-auto py-6 px-4">
-      <div className="bg-white bg-opacity-95 rounded-lg p-6 backdrop-blur-sm">
+      <div className="bg-white bg-opacity-60 rounded-lg p-6 backdrop-blur-sm">
         <h2 className="text-2xl font-bold mb-4 text-center">Sådan Vurderer Vi Bookmakere</h2>
 
         <p className="text-gray-700 mb-6">
