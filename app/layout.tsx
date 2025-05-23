@@ -9,7 +9,6 @@ export const metadata: Metadata = {
   title: "Bedste Betting Sider i Danmark | BedsteDanskeBettingsider.com",
   description:
     "Find de bedste betting sider i Danmark med eksklusive bonusser, vurderinger og anmeldelser. Alle bookmakere har dansk licens.",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({
